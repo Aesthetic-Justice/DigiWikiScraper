@@ -19,7 +19,7 @@ int main()
 {
     std::cout << "Hello World!\n";
 
-
+    json data = pull_from_file();
 
     std::cout << "test";
 };
